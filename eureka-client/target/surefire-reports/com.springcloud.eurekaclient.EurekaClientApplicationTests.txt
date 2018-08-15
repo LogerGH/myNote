@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.springcloud.eurekaclient.EurekaClientApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.194 sec - in com.springcloud.eurekaclient.EurekaClientApplicationTests
